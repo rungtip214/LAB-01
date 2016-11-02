@@ -49,6 +49,7 @@ WinMain(HINSTANCE hInst, HINSTANCE hPrev, LPSTR  lpCmdLine, int nCmdshow)
 ## บันทึกผลการทดลอง
 
  จากการทดลองพบว่ามีหน้าต่างLesson1เด้งขึ้นมา โดยมีรายละเอียดดังนี้
+ ![](https://github.com/rungtip214/LAB-01/blob/master/imgs/Capture.PNG)
 
 ## คำถาม 
 1. นักศึกษาพบปัญหาในการคอมไพล์โปรแกรมหรือไม่ ถ้าเจอให้บอกที่ผิดและแนวทางการแก้ไข
